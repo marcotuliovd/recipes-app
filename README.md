@@ -12,7 +12,6 @@ The application is a mobile recipe site where you can save your ready-made recip
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [More Info](#more-info)
-- [Contact](#contact)
 
 ## Preview
 
